@@ -1,0 +1,3 @@
+[submodule "Simple_Calculator"]
+	path = Simple_Calculator
+	url = https://github.com/Moronic-Aim/CPP_Simple_Calculator.git
